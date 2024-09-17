@@ -1,6 +1,6 @@
 # PartPrompt
 
-This repository contains the code and data for the paper: PartPrompt.
+This repository contains the code and data for the paper: Parse Trees Guided LLM Prompt Compression.
 
 ## Experiments
 
