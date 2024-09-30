@@ -27,7 +27,11 @@ To reproduce the experiments from the paper:
 If you find this repository helpful or use our method in your research, please consider citing our paper:
 
 ```
-@misc{
+@article{mao2024partprompt,
+  title={Parse Trees Guided LLM Prompt Compression},
+  author={Mao, Wenhao and Hou, Chengbin and Zhang, Tianyu and Lin, Xinyu and Tang, Ke and Lv, Hairong},
+  journal={arXiv preprint arXiv:2409.15395},
+  year={2024}
 }
 ```
 
