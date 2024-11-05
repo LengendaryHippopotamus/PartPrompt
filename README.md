@@ -12,6 +12,7 @@ To reproduce the experiments from the paper:
    pip install nltk
    pip install collections
    pip install transformers
+   pip install accelerate
    ```
 
 2. Download [Llama-7B](https://huggingface.co/meta-llama/Llama-2-7b)  model from [HuggingFace](https://huggingface.co/)
