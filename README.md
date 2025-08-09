@@ -2,6 +2,8 @@
 
 This repository contains the code and data for the paper: [Parse Trees Guided LLM Prompt Compression](https://arxiv.org/abs/2409.15395).
 
+Update: [IEEE TPMAI revison submitted](https://arxiv.org/pdf/2409.15395v2)
+
 ## Experiments
 
 To reproduce the experiments from the paper:
