@@ -15,7 +15,7 @@ This repository contains the code and data for the paper: [Parse Trees Guided LL
 - 🧩 **Coherence-Preserving**: Maintains prompt coherence and readability.
 - 🌍 **Multi-Scenario Support**: Works across English, non-English, code, and long-context prompts.
 
-## 🔥 Key Features
+### 🔥 Key Features
 
 - **Parse Tree Guidance**: Uses syntactic parse trees to guide token selection.
 - **Global Hierarchical Tree**: Models document structure (sentence → paragraph → section → document).
@@ -23,7 +23,7 @@ This repository contains the code and data for the paper: [Parse Trees Guided LL
 - **Tokenizer Alignment**: Avoids fragmented tokens and improves coherence.
 - **Efficient Entropy Approximation**: Speeds up computation without sacrificing performance.
 
-## 📊 Performance Highlights
+### 📊 Performance Highlights
 
 PartPrompt achieves **state-of-the-art performance** across:
 
@@ -54,7 +54,7 @@ python -u main.py BBCnews 0.2,0.3,0.5 1.0,1.0,0.7,4.0,0.0,100.0 1
 - `0.2,0.3,0.5`: Compression ratios
 - `1.0,1.0,0.7,4.0,0.0,100.0`: Hyperparameters
 
-## 📁 Dataset
+### 📁 Dataset
 
 We provide cleaned and re-crawled versions of:
 
