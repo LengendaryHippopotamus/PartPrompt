@@ -1,6 +1,6 @@
-# PartPrompt
+# PartPrompt: Parse Trees Guided LLM Prompt Compression
 
-This repository contains the code and data for the paper: [Parse Trees Guided LLM Prompt Compression](https://arxiv.org/abs/2409.15395).
+This repository contains the code and data for the paper: [Parse Trees Guided LLM Prompt Compression](https://ieeexplore.ieee.org/document/11164467), accepted to **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 
 ## Experiments
 
