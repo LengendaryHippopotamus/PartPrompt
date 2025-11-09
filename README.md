@@ -2,6 +2,13 @@
 
 This repository contains the code and data for the paper: [Parse Trees Guided LLM Prompt Compression](https://ieeexplore.ieee.org/document/11164467), accepted to **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 
+---
+
+## 🧠 Overview
+
+**PartPrompt** is a novel **selective prompt compression** method that leverages **linguistic parse trees** and **global hierarchical structure** to compress prompts for Large Language Models (LLMs). By transforming prompt compression into a **tree pruning problem**, PartPrompt effectively preserves key information while significantly reducing input length and computational cost.
+
+
 ## Experiments
 
 To reproduce the experiments from the paper:
